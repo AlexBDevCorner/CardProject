@@ -1,0 +1,19 @@
+{
+  "name": "resultsapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "mkm-api": "^2.0.0",
+    "node-fetch": "^2.2.1",
+    "uuid": "^3.3.2"
+  }
+}
